@@ -10,9 +10,9 @@ function Header() {
         <p>Software Developer</p>
       </div>
       <div className="header__moreBtn">
-        <div className="header__square1"></div>
-        <div className="header__square2"></div>
-        <div className="header__square3 "></div>
+        <div></div>
+        <div></div>
+        <div></div>
       </div>
     </section>
   );
